@@ -11,6 +11,8 @@ As shown on several social media platforms, many people have varied opinions (Po
 4. Docker
 5. Twitter API
 
+![picture alt](https://github.com/jaybfn/Twitter_Sentiment_Analysis/blob/main/ETLpipeline.tif)
+
 # Data Cleaning and Processing and quick result:
 
 1.	Data was extracted from twitter using Twitter API v2.
