@@ -4,6 +4,13 @@ Natural Language Processing (NLP) is a hotbed of data science research these day
 Objective of the Project:
 As shown on several social media platforms, many people have varied opinions (Positive/Negative/Neutral) about covid vaccination. To better comprehend this and reach a coherent conclusion, I performed a sentiment analysis on twitter data gathered from multiple hastags.
 
+Teck Stack:
+1. Python 3.9
+2. Mongo DB
+3. Postgres SQL
+4. Docker
+5. Twitter API
+
 Data Cleaning and Processing and quick result:
 
 1.	Data was extracted from twitter using Twitter API v2.
