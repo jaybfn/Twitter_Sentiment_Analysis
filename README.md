@@ -21,14 +21,18 @@ Data Cleaning and Processing and quick result:
 How to work with this Repo?
 
 1.	First git clone <repo>
+  
 2.	Make sure you have Python, docker, mongoDB and postgres SQL on your computer.
+  
 3.	Eg: On VS code open the folder which has docker-compose.yml file.
+  
 a.	Open terminal
 b.	Type ‘docker-compose build’ this will start building the docker image 
 c.	To check the docker images if its build or not!
 i.	Type: ‘docker images’ to check the docker images
 ii.	Next type: ‘docker ps -a’ to check docker container
 If all the container and images are seen for this project, then you are good to go.
+  
 4.	Next, type ‘docker-compose up’ to run the ETL process
 a.	It will extract tweets from twitter (get_tweets.py)
 b.	Next it will extract the data from mongoDB
