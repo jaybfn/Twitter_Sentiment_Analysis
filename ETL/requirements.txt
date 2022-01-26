@@ -1,0 +1,12 @@
+pymongo
+sqlalchemy
+pandas
+numpy
+nltk
+wordcloud
+seaborn
+matplotlib
+sklearn
+vaderSentiment
+SQLAlchemy
+psycopg2

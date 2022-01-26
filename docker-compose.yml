@@ -1,0 +1,35 @@
+version: '3'
+services:
+  mongodb:
+    container_name: mymongo
+    image: mongo 
+    ports: 
+    - 27017:27017
+     
+  tweetcollector:
+    container_name: tweetcollector
+    build: tweetcollector/
+    volumes:
+    - ./tweetcollector:/app
+    links:
+    - mongodb
+  
+  postgresdb:
+    image: postgres:13.0
+    container_name: sentiment_tweet
+    ports:
+    - 5555:5432
+    environment:
+    - POSTGRES_USER=postgres
+    - POSTGRES_PASSWORD=postgres
+    - POSTGRES_DB=posty_tweets
+    - LOCALE=en_US.UTF-8
+
+  etl_cont:
+    build: ETL/
+    container_name: ETL
+    volumes:
+    - ./ETL:/DOC_ETL
+    depends_on:
+    - mongodb
+    - postgresdb

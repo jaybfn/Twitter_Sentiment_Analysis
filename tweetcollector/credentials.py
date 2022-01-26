@@ -1,0 +1,24 @@
+#Twitter credentials
+API_KEY = "rIWodoEu9Acmdv6cXlopMTIb3"
+API_KEY_SECRET = "lFV7uo6fuF6m5IR5qa7TDnZuwFUGKMOmfHrroH2QS2AIHE6ibs"
+ACCESS_TOKEN = "1402878087487004674-bdYA4xASVB54N8UAP2Gr6IaiIoJbm2"
+ACCESS_TOKEN_SECRET = "TTQhApHSKIf0iF6qybJjxdywX57bPFhWezOWVT90tOj9u"
+BEARER_TOKEN = "AAAAAAAAAAAAAAAAAAAAAEBtXwEAAAAABff9tGuCD5DGs32ta42jAVLylbo%3De9mWt0euyTk0jsHuOcALbvpsKobjeQUba1aKi1kJZwOw2CFucv"
+
+
+#Twitter credentials Academic:
+
+API_KEY_Aca = "4BJXuBIpufM2bA39BYwhXOSf6"
+API_KEY_SECRET_Aca = "4CSIdOeFbCFdqQyLANd2yVy2lxlMxnKNUKAzXhZS20ikdQ08Ws"
+ACCESS_TOKEN_Aca = "1402878087487004674-TJ2y8H0kSO08bB8d9SUIqL1oNbSS86"
+ACCESS_TOKEN_SECRET_Aca = "zmESarDoI1dkk2JmNK6vZLrzcQg596c0gj0c8zi8QfXsW"
+BEARER_TOKEN_Aca = "AAAAAAAAAAAAAAAAAAAAADk0YQEAAAAA6oYNcUTt7Zp2D0wE06j%2Fa1UIUzk%3DTovEfeQZpxpaACDAsiLutkKDqMq26Y8YwlHcZYjPpacHjf3wuU"
+
+
+
+#Twitter credentials
+# API_KEY = "**************"
+# API_KEY_SECRET = "***************************"
+# ACCESS_TOKEN = "*************************"
+# ACCESS_TOKEN_SECRET = "**************************"
+# BEARER_TOKEN = "******************************"

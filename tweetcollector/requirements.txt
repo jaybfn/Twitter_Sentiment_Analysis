@@ -1,0 +1,5 @@
+tweepy
+pprintpp
+pandas
+pymongo
+dnspython
