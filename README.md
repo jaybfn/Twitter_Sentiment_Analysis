@@ -11,7 +11,7 @@ As shown on several social media platforms, many people have varied opinions (Po
 4. Docker
 5. Twitter API
 
-![picture alt](https://github.com/jaybfn/Twitter_Sentiment_Analysis/blob/main/ETLpipeline.tif)
+![picture alt](https://github.com/jaybfn/Twitter_Sentiment_Analysis/blob/main/ETL_pipeline.jpg)
 
 # Data Cleaning and Processing and quick result:
 
