@@ -35,8 +35,8 @@ conn_string_mdb = f"mongodb://{HOST_MDB}:{PORT_MDB}"
 client = MongoClient(conn_string_mdb)
 
 ## POSTGRES
-USERNAME_PG = 'postgres'
-PASSWORD_PG = 'postgres'
+USERNAME_PG = '*******'
+PASSWORD_PG = '******'
 HOST_PG = 'sentiment_tweet' # if in docker it would be the container name
 PORT_PG = 5432
 DATABASE_NAME_PG = 'posty_tweets'
