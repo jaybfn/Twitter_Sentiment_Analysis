@@ -21,7 +21,7 @@ services:
     - 5555:5432
     environment:
     - POSTGRES_USER=postgres
-    - POSTGRES_PASSWORD=postgres
+    - POSTGRES_PASSWORD=****
     - POSTGRES_DB=posty_tweets
     - LOCALE=en_US.UTF-8
 
